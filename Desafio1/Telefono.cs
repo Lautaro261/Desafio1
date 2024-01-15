@@ -13,7 +13,9 @@ namespace Desafio1
             this.modelo = modelo;
             this.marca = marca;
         }
+
         //atrubutos : Modelo, Marca, NumeroTelefonico, CodigoOperador
+
         private string modelo;
         private string marca;
         private string numeroTelefonico;
